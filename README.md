@@ -1,4 +1,4 @@
-# iuap-design 用户维护列表
+# iUAP Design User Group
 
 - [HRCloud](./users/HRCloud.md)
 - [NC共享服务](./users/NC共享服务.md)
